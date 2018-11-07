@@ -3,12 +3,14 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "db": "mongod --dbpath=/path/to/your/db",
+    "db": "mongod --dbpath=/../../mnt/c/Users/trev1/codefellows/code-401/db/local",
     "start": "node index.js",
     "watch": "nodemon index.js",
     "test-watch": "jest --watchAll",
     "test": "jest",
-    "lint": "eslint **/*.js"
+    "lint": "eslint **/*.js",
+    "debug": "nodemon --inspect index.js"
+
   },
   "keywords": [],
   "author": "",
