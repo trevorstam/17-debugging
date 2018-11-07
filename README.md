@@ -17,3 +17,4 @@ Available in package.json
 JB Tellez, VS Code, Heroku, David Chambers, George McCadden
 
 ### Debugger working
+![debugger_screenshot](https://user-images.githubusercontent.com/35611473/48112670-52b6d980-e20c-11e8-92cc-8555fa5a73a6.JPG)
